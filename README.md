@@ -7,14 +7,14 @@
 
 
 <h1> Primera fecha de entrega</h1> 
-<h3>29 de junio</h3>
+<h3>29 de Junio</h3>
 .
 .
 .
 
 
 <h1> Segunda fecha de entrega</h1> 
-<h3> 6 de junio (cambio de requerimientos y nuevas funcionalidades)</h3>
+<h3> 6 de Julio (cambio de requerimientos y nuevas funcionalidades)</h3>
 .
 .
 .
