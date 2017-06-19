@@ -2,13 +2,13 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { LoginComponent } from './login/login/login.component';
-import { MenuComponent } from './menu/menu/menu.component';
-import { ErrorComponent } from './error/error/error.component';
-import { RegistrarseComponent } from './registrarse/registrarse/registrarse.component';
-import { ProductoComponent } from './producto/producto/producto.component';
-import { LocalidadesComponent } from './Localidades/localidades/localidades.component';
-import { LocalesComponent } from './locales/locales/locales.component';
+import { LoginComponent } from './login/login.component';
+import { MenuComponent } from './menu/menu.component';
+import { ErrorComponent } from './error/error.component';
+import { RegistrarseComponent } from './registrarse/registrarse.component';
+import { ProductoComponent } from './producto/producto.component';
+import { LocalidadesComponent } from './localidades/localidades.component';
+import { LocalesComponent } from './locales/locales.component';
 
 @NgModule({
   declarations: [
