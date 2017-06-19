@@ -1,0 +1,36 @@
+
+header{
+padding-top: 15px;
+}
+
+.social-header a {
+    margin-top: 12px;
+}
+    .social-header a {
+        color: white;
+    }
+   
+        .social-header a .fa-inverse{
+                color: black;
+        }
+
+.carousel-inner img {
+    width: 400%;
+    height: 500px;
+    background-color: black;
+}
+
+footer{
+    size: 5px
+    
+}
+
+
+h1{
+     font-size:28px;
+     font-family: "Times";
+}
+
+body{
+     background-color: black;
+}
